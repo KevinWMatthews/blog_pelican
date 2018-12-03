@@ -3,7 +3,7 @@ Date: 12/2/2018 18:36
 Modified: 12/2/2018 18:36
 Category: Python
 Tags: python, pelican
-Slug: what-is-this
+Slug: first-post
 Author: Kevin W Matthews
 Summary: Learning how to write a post using Pelican
 
