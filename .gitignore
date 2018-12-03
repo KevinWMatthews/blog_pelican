@@ -1,2 +1,5 @@
 venv/
 __pycache__/
+
+# Ignore Pelican's output directory
+output/
