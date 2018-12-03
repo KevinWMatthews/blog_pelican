@@ -45,7 +45,7 @@ You can also generate individual files.
 
 ## Deploy
 
-Ust the provided Makefile:
+Use the provided Makefile:
 
 ```
 $ make devserver
